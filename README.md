@@ -1,3 +1,7 @@
+<p align="center">
+<img src="lionfish.png" />
+</p>
+
 # lionfish.app
 
 Repository to talk about lionfish.app or report issues.
